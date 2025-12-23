@@ -51,6 +51,18 @@ activities = {
         "schedule": "Mondays, 3:30 PM - 5:00 PM",
         "max_participants": 15,
         "participants": ["mia@mergington.edu", "noah@mergington.edu"]
+    },    
+    "Tennis Club": {
+        "description": "Practice tennis techniques and play doubles matches",
+        "schedule": "Tuesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 12,
+        "participants": ["sara@mergington.edu", "ryan@mergington.edu"]
+    },
+    "Volleyball Team": {
+        "description": "Team practices and interschool competitions",
+        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 16,
+        "participants": ["nina@mergington.edu", "omar@mergington.edu"]
     },
     # Artistic activities
     "Art Workshop": {
